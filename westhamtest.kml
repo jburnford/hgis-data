@@ -1,0 +1,1884 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>westhamtest</name>
+  <Placemark>
+	<name>Stratford Brewery</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="First_Date">1862</SimpleData>
+		<SimpleData name="Last_Date">1926</SimpleData>
+		<SimpleData name="Type">Alcohol</SimpleData>
+		<SimpleData name="Products">Beer</SimpleData>
+		<SimpleData name="Major_Impu">Water, Barley, Hops</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">312.21922372000</SimpleData>
+		<SimpleData name="SHAPE_Area">3609.73992763000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.004009954162569,51.548212729068453 0.004597216337637,51.548280755386592 0.004744309041069,51.547829397101161 0.003253891985246,51.547627181523801 0.003199618265312,51.547816753902566 0.004092929123988,51.547964121274362 0.004009954162569,51.548212729068453</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>William Ritchie &amp; Son</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="First_Date">1865</SimpleData>
+		<SimpleData name="Last_Date">1904</SimpleData>
+		<SimpleData name="Type">Cloth</SimpleData>
+		<SimpleData name="Products">Jute</SimpleData>
+		<SimpleData name="River">Waterworks</SimpleData>
+		<SimpleData name="Major_Impu">Jute</SimpleData>
+		<SimpleData name="Employs">1000</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">218.89991933400</SimpleData>
+		<SimpleData name="SHAPE_Area">2794.46451321000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.007484189176958,51.538236147058996 -0.006678984763835,51.537884206765526 -0.006998745311337,51.537568727052502 -0.007803189825538,51.537937998165354 -0.007484189176958,51.538236147058996</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Leather Cloth Co.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="First_Date">1857</SimpleData>
+		<SimpleData name="Last_Date">1961</SimpleData>
+		<SimpleData name="Type">tannery</SimpleData>
+		<SimpleData name="Products">leather, cotton, rubber</SimpleData>
+		<SimpleData name="Major_Impu">animals, chemicals</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">483.79736294500</SimpleData>
+		<SimpleData name="SHAPE_Area">12362.90551470000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.006060379518536,51.534395016938639 0.007471092361155,51.533980581663165 0.007435375374716,51.533642931502591 0.006556762329434,51.533586409965544 0.006654825334581,51.533207441122073 0.005730246502816,51.533054124087769 0.005344637205884,51.533535583106975 0.006060379518536,51.534395016938639</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>City Mills Chemical Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="First_Date">1805</SimpleData>
+		<SimpleData name="Last_Date">1914</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">chemicals</SimpleData>
+		<SimpleData name="River">City Mill</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">670.64211255300</SimpleData>
+		<SimpleData name="SHAPE_Area">14478.99605710000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.009511323476951,51.534506199990382 -0.008935065474944,51.534401284305993 -0.008248752182799,51.53359195646366 -0.008258924279563,51.533493334287307 -0.008337372741288,51.533443439748375 -0.008469338734796,51.533511543303952 -0.008564894648013,51.533472916373398 -0.008488724331648,51.533336237261111 -0.00890871632485,51.532988437630607 -0.009247464048732,51.533023459976015 -0.009313068890143,51.532998959641269 -0.009352150452032,51.532641035245057 -0.009532968979636,51.53253067239207 -0.009889500295356,51.532426949645242 -0.009981066113064,51.532479730562791 -0.009995032265381,51.532966622822407 -0.009917505285618,51.533129965384582 -0.009515625149871,51.533331712704069 -0.009432313447507,51.533224186759682 -0.009325989294921,51.533240677027699 -0.009371733740792,51.533402452972489 -0.00937041796347,51.533567088481071 -0.00999955888525,51.534342507813129 -0.009511323476951,51.534506199990382</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Victorial Docks Gas Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">156</SimpleData>
+		<SimpleData name="First_Date">1864</SimpleData>
+		<SimpleData name="Last_Date">1909</SimpleData>
+		<SimpleData name="Type">Gas</SimpleData>
+		<SimpleData name="Products">Gas</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">705.83567173300</SimpleData>
+		<SimpleData name="SHAPE_Area">28534.64276560000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.049430007259128,51.501429599494578 0.051818912706883,51.501161640187561 0.051744670446278,51.501021573084955 0.051687454869654,51.50100843753156 0.051448442946791,51.500729887734117 0.051049324372334,51.50016433741461 0.050824292861267,51.499440239473124 0.048987416493979,51.499641988308085 0.049430007259128,51.501429599494578</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>GER Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="First_Date">1839</SimpleData>
+		<SimpleData name="Last_Date">2009</SimpleData>
+		<SimpleData name="Type">Engineering</SimpleData>
+		<SimpleData name="Products">Locamotives, Carriages</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Major_Impu">Coal, Steal</SimpleData>
+		<SimpleData name="Pollution">Smoke</SimpleData>
+		<SimpleData name="Employs">6000</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">1745.97097063000</SimpleData>
+		<SimpleData name="SHAPE_Area">64755.95149610000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-0.002375141919291,51.546390367388668 -0.001924256710599,51.546521461173889 -0.001792894861458,51.545709713771096 -0.002375141919291,51.546390367388668</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-0.004127371145936,51.548733077749944 -0.00239418195368,51.546379127087654 -0.001813453648259,51.545663805876913 -0.001388400716762,51.545205551566099 -0.001190105937501,51.545074964266682 -0.000521391082251,51.54509826203973 -0.000338085964569,51.545048879521552 -0.000197926643814,51.54486145975239 -0.000085423941534,51.54446635077133 -0.000262353385937,51.544238078255553 -0.002255376605481,51.543196542093689 -0.002729314461157,51.542961758971188 -0.003253784405079,51.542843478399277 -0.003061697401411,51.543418430261958 -0.003091998710779,51.543997168484189 -0.003523911387941,51.545993603365929 -0.004127371145936,51.548733077749944</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Work Shop (Rail?)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="First_Date">1867</SimpleData>
+		<SimpleData name="Last_Date">2009</SimpleData>
+		<SimpleData name="Type">Engineering</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">245.08338114700</SimpleData>
+		<SimpleData name="SHAPE_Area">1673.98600707000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.003179116931471,51.541054055191786 -0.002751814956855,51.540647807406508 -0.002385048659228,51.540129835622523 -0.002672741325287,51.540230140829934 -0.003297135995546,51.540899943877484 -0.003179116931471,51.541054055191786</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Timber Yard</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="First_Date">1867</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Building</SimpleData>
+		<SimpleData name="Products">Timber</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Major_Impu">timber</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">354.58024543200</SimpleData>
+		<SimpleData name="SHAPE_Area">4047.19065084000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.006006335558067,51.535374853785122 -0.005710326139575,51.535226711904343 -0.006944515224992,51.534193877173792 -0.007366443261047,51.534324641040413 -0.006917623294297,51.534570710810051 -0.006678672097928,51.53478782082118 -0.006532954061669,51.535019524468211 -0.006006335558067,51.535374853785122</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Stone Yard</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="First_Date">1867</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Building</SimpleData>
+		<SimpleData name="Products">Stones</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Major_Impu">Stones</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">204.31451875200</SimpleData>
+		<SimpleData name="SHAPE_Area">2177.82572487000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.007495203045033,51.534242262400255 -0.007073844617613,51.534098499922443 -0.007806411472105,51.533564523359672 -0.008029460481213,51.533711421039683 -0.007699191854033,51.53410912278467 -0.007495203045033,51.534242262400255</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>West Ham Gas Co.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="First_Date">1856</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Gas</SimpleData>
+		<SimpleData name="Products">Gas, Coke, By-products</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Major_Impu">coal</SimpleData>
+		<SimpleData name="Pollution">smoke</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">502.22991349900</SimpleData>
+		<SimpleData name="SHAPE_Area">12579.52305210000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.001425864605739,51.53493262175806 -0.00220311515638,51.534809256468819 -0.002049161788721,51.534513909458688 -0.002710439837103,51.534180405604701 -0.003405511753163,51.534504478331165 -0.003738363039904,51.534763839202142 -0.003290943322403,51.534977393568987 -0.002532723421025,51.535380805319619 -0.00190554288297,51.535649838973029 -0.001779441892585,51.535433025802888 -0.001643092529653,51.535450217970499 -0.001425864605739,51.53493262175806</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Abbey Mill Distillery</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="First_Date">1867</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Alcohol</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">263.72229621100</SimpleData>
+		<SimpleData name="SHAPE_Area">4040.64398945000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.006542502818257,51.536819646257968 0.00624296227685,51.537124000102843 0.007149513152296,51.537576852420528 0.007665645761674,51.537216749887683 0.007219583545014,51.537035737441869 0.006542502818257,51.536819646257968</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>East London Soap Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="First_Date">1859</SimpleData>
+		<SimpleData name="Last_Date">2009</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">Soap, Tallow, Fertilizers</SimpleData>
+		<SimpleData name="River">Lea</SimpleData>
+		<SimpleData name="Major_Impu">animals,</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">278.46014797500</SimpleData>
+		<SimpleData name="SHAPE_Area">4861.91248731000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.016416376926444,51.532006125877317 -0.017190489703773,51.531472793944999 -0.017424264157912,51.531613350603799 -0.017540007474763,51.531829971618386 -0.017581950124303,51.532064861063041 -0.016845595913589,51.532449218216428 -0.016416376926444,51.532006125877317</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lime Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="First_Date">1850</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">Lime, cement</SimpleData>
+		<SimpleData name="River">Lea</SimpleData>
+		<SimpleData name="Major_Impu">limestone, coal</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">143.80902070200</SimpleData>
+		<SimpleData name="SHAPE_Area">1152.22700075000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.013808795789962,51.531051301653427 -0.013348871695463,51.530835353289604 -0.013466905684568,51.530759291785884 -0.013967715161926,51.53075476264425 -0.014224580407549,51.530843676379348 -0.013808795789962,51.531051301653427</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lime Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="First_Date">1850</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">Lime</SimpleData>
+		<SimpleData name="River">Lea</SimpleData>
+		<SimpleData name="Major_Impu">limestone, coal</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">262.60887553800</SimpleData>
+		<SimpleData name="SHAPE_Area">3864.82932323000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.012205421411239,51.530269561025058 -0.011583015447577,51.529953276482097 -0.011504800857396,51.529594175806849 -0.012803803873386,51.529700755066884 -0.012205421411239,51.530269561025058</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lime Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="First_Date">1850</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">Lime</SimpleData>
+		<SimpleData name="River">Lea</SimpleData>
+		<SimpleData name="Major_Impu">limestone, coal</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">256.76410632700</SimpleData>
+		<SimpleData name="SHAPE_Area">3195.83384902000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.012129811260295,51.530808194790602 -0.012979117817678,51.53046481037385 -0.013199054234613,51.530683200835654 -0.012877061894298,51.530892411445045 -0.012715587157055,51.531247450465848 -0.012683755578658,51.531259921711076 -0.012499842526463,51.531172240719727 -0.012414203808235,51.531222829106653 -0.012232839857805,51.531076646138075 -0.01232833587558,51.53103923456333 -0.012220208491246,51.530887787294475 -0.012129811260295,51.530808194790602</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>St. Thomas Mill</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="First_Date">1066</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Watermill</SimpleData>
+		<SimpleData name="Products">corn</SimpleData>
+		<SimpleData name="River">Pudding Mill</SimpleData>
+		<SimpleData name="Major_Impu">corn</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">78.00120016040</SimpleData>
+		<SimpleData name="SHAPE_Area">369.78656968500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.011489033889919,51.532798028473472 -0.011354230569686,51.532660358175093 -0.011657199663396,51.532574017505922 -0.01175762510915,51.532692809241034 -0.011489033889919,51.532798028473472</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Crown Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="First_Date">1866</SimpleData>
+		<SimpleData name="Last_Date">1906</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">Sulphuric Acid
+
+Sulphuric Acid
+
+sulfuric acid</SimpleData>
+		<SimpleData name="River">Pudding Mill</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">218.21903114900</SimpleData>
+		<SimpleData name="SHAPE_Area">2930.80472013000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.011571335510787,51.53165738975266 -0.012072325351524,51.532127735807855 -0.011706929439382,51.532375238393399 -0.011392909724288,51.532161754588579 -0.01127096222729,51.532088132731886 -0.011167875341962,51.532060364735578 -0.011122281082261,51.531909976712164 -0.011073005246844,51.531844091180218 -0.011392746308228,51.531686886773699 -0.011571335510787,51.53165738975266</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Brush and Mat Manufactory</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="First_Date">1867</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Products">Brushes, mats, fibers</SimpleData>
+		<SimpleData name="River">Pudding Mill</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">252.66012610000</SimpleData>
+		<SimpleData name="SHAPE_Area">2869.55478810000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.01189068799817,51.53362446658916 -0.011508093337488,51.533383801626989 -0.011127733979384,51.533091946748847 -0.010973749377345,51.532990540916018 -0.011353924388704,51.532748170544195 -0.011652843707031,51.533024008750637 -0.012105883709055,51.53353297885181 -0.01189068799817,51.53362446658916</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Oil Mill</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="First_Date">1867</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Food</SimpleData>
+		<SimpleData name="Products">Oil (food?)</SimpleData>
+		<SimpleData name="River">Pudding Mill</SimpleData>
+		<SimpleData name="Major_Impu">check closing date -revises it to 1867</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">96.90268064070</SimpleData>
+		<SimpleData name="SHAPE_Area">514.07815175100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.011371704985016,51.532609426991115 -0.01124049995283,51.532658429989461 -0.011267580047219,51.532710115650666 -0.011118627634438,51.532762476722702 -0.010978122456873,51.532621049303494 -0.011020594489759,51.532588838456441 -0.010958180365753,51.532540211788877 -0.011219315072034,51.532471458374772 -0.011371704985016,51.532609426991115</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Bow Bridge Chemical Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="First_Date">1850</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">chemicals</SimpleData>
+		<SimpleData name="River">Lea</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">423.13978549500</SimpleData>
+		<SimpleData name="SHAPE_Area">5466.67962975000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.0112283165738,51.530192013923561 -0.010992520345665,51.53035267366495 -0.011048273978528,51.530419482031064 -0.010833251847573,51.530507312530482 -0.010587712451783,51.530353126889359 -0.010550539946838,51.53012929376461 -0.010349227201885,51.529902675613968 -0.010119723244497,51.529649966018653 -0.009697647964026,51.529104922827592 -0.010172348041257,51.528981249748909 -0.010286877367218,51.529045396464433 -0.010342592008909,51.529247590517159 -0.010507930820214,51.529491893190126 -0.010517706279045,51.529671353320118 -0.010597225785704,51.529731246799507 -0.010647273866861,51.529794300397548 -0.010721090989295,51.529850437972982 -0.01101763185146,51.530045738334863 -0.0112283165738,51.530192013923561</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Abbey Mill</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="First_Date">1066</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Watermill</SimpleData>
+		<SimpleData name="Products">corn</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Major_Impu">Corn</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">96.88231571590</SimpleData>
+		<SimpleData name="SHAPE_Area">346.35981079300</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.000610375110891,51.531399433778041 0.00068072147713,51.53139823394622 0.000821506289429,51.531264106447786 0.00102700598794,51.531267919158985 0.001058331554783,51.531179567032524 0.00075237319826,51.531159172398368 0.000610375110891,51.531399433778041</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Abbey Bleaching and Chemical Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="First_Date">1867</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">239.87585363200</SimpleData>
+		<SimpleData name="SHAPE_Area">3348.45088061000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.001317337825654,51.532002097940236 0.001988122675682,51.532180923180555 0.002063530448359,51.532161340593703 0.00231788164158,51.531674001944921 0.002255088145545,51.531579937873516 0.002089500339905,51.531549832313488 0.002027903723163,51.531616746727643 0.00166340688366,51.531465627413048 0.001317337825654,51.532002097940236</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Artificial Manure Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">Fertilizer</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">344.26073683700</SimpleData>
+		<SimpleData name="SHAPE_Area">4367.60900498000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.011255050596495,51.549937075725005 -0.011174375797928,51.549574823861583 -0.011884240616277,51.549520025432564 -0.012154585152014,51.549711731953167 -0.012444085051932,51.549709953656162 -0.012666873520206,51.550255054118935 -0.012212911582284,51.550340925893479 -0.011998802079164,51.549842752965993 -0.011255050596495,51.549937075725005</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Artificial Manure Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">Fertilizer</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">267.16269748700</SimpleData>
+		<SimpleData name="SHAPE_Area">4500.71222342000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.0162858345831,51.549120039194911 -0.015482194648314,51.549113130903393 -0.015236997289379,51.549082250574521 -0.014951571088959,51.548990541995458 -0.01506798569722,51.548778654056967 -0.01530018665137,51.548615507125696 -0.016086463330872,51.548528560425055 -0.0162858345831,51.549120039194911</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Brick Field</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Building</SimpleData>
+		<SimpleData name="Products">Bricks</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">1235.59626559000</SimpleData>
+		<SimpleData name="SHAPE_Area">92219.57037220000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.009843540679441,51.54961240219167 -0.009485049662341,51.547019982262761 -0.012369223287184,51.546754780819136 -0.014063316728059,51.546496099889531 -0.013986292779034,51.549495482190736 -0.013072914370494,51.549546846704736 -0.011726189718817,51.549457199826556 -0.009843540679441,51.54961240219167</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Additions</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Engineering</SimpleData>
+		<SimpleData name="Products">Locamotives etc</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Major_Impu">Coal</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">2363.99329522000</SimpleData>
+		<SimpleData name="SHAPE_Area">191694.54073000001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.004318783750678,51.541790713902635 -0.00452401632762,51.541999152604141 -0.004900603018275,51.542210504411379 -0.006429947553622,51.542530558710219 -0.007719781728134,51.542445542617514 -0.008682243287043,51.542657920764483 -0.009588371804585,51.542851512673536 -0.011332830789506,51.542827634334593 -0.012547774789514,51.542821491716865 -0.012809392241826,51.543048692436997 -0.011527617900864,51.543276472862033 -0.009835502793457,51.543737868121468 -0.009201252699806,51.544190464680575 -0.008483146437643,51.544926777719731 -0.007851588810841,51.545317037278082 -0.005922571936771,51.546291176487827 -0.005051571658986,51.546926852068637 -0.004744004822718,51.547750319357476 -0.004798915763949,51.548455200979575 -0.004131836861225,51.548675533509297 -0.00358598180312,51.546126685809597 -0.003334034508049,51.545026377611549 -0.003147651790364,51.544060844795894 -0.003158710551081,51.543481834932592 -0.003434988658991,51.54272021432967 -0.003877154597501,51.542086165266483 -0.004318783750678,51.541790713902635</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Jam Factory</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Food</SimpleData>
+		<SimpleData name="Products">Jam</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Major_Impu">Fruit</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">271.44059130200</SimpleData>
+		<SimpleData name="SHAPE_Area">3783.64017389000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.000813340657278,51.540260752670349 -0.000677185652297,51.540106949431078 -0.000982113701498,51.53999630655094 -0.000922425670795,51.539727967090599 -0.001730614493963,51.539545700303414 -0.001983579049947,51.539968814198375 -0.000813340657278,51.540260752670349</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Channel Sea Tallow Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">Tallow</SimpleData>
+		<SimpleData name="River">Waterworks</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">244.22032031400</SimpleData>
+		<SimpleData name="SHAPE_Area">3541.60516944000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.013241876782797,51.541977819101227 -0.013937050728879,51.541437125488301 -0.014397028657469,51.541703323071225 -0.013873210671499,51.542246920675716 -0.013241876782797,51.541977819101227</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Virgemount Chemical Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="River">Waterworks</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">329.33811705300</SimpleData>
+		<SimpleData name="SHAPE_Area">6679.66150803000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.012164086408523,51.541460559214542 -0.013055294503446,51.541012300346161 -0.013937050728879,51.541437125488301 -0.01322720935129,51.541986481477018 -0.012164086408523,51.541460559214542</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Engineering Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Engineering</SimpleData>
+		<SimpleData name="River">Waterworks</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">262.89316056100</SimpleData>
+		<SimpleData name="SHAPE_Area">4146.92705329000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.011677506152119,51.541149347927281 -0.011050859505886,51.540773385202449 -0.012038913795692,51.540398061431318 -0.012495378487766,51.540744403308622 -0.011677506152119,51.541149347927281</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Tallow Works
+
+</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">Tallow
+
+</SimpleData>
+		<SimpleData name="River">Waterworks
+
+</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">306.50127067800</SimpleData>
+		<SimpleData name="SHAPE_Area">4919.17431604000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.011037356809913,51.540755334684569 -0.010546908347662,51.540533160898455 -0.010237430100736,51.54042098246795 -0.011726020582065,51.540036328757829 -0.012068246617026,51.540380736940094 -0.011037356809913,51.540755334684569</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lea Valley Distillery</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Alcohol</SimpleData>
+		<SimpleData name="Products">alcohol</SimpleData>
+		<SimpleData name="River">Waterworks</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">664.03623530600</SimpleData>
+		<SimpleData name="SHAPE_Area">9955.80316775000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-0.010964117686662,51.539321692020899 -0.010042492377151,51.539566700987422 -0.010060705421503,51.539640522861561 -0.009378167203262,51.53980938504084 -0.009317118637301,51.539734836150132 -0.009353617039059,51.53963520931795 -0.009302111082603,51.539587553830941 -0.009541790249406,51.539498058068887 -0.009536034466269,51.539384348462846 -0.009410513967354,51.539068115095077 -0.010643271449732,51.538815022188807 -0.010964117686662,51.539321692020899</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>-0.010982785967826,51.539876702401969 -0.009584992364894,51.540227244154451 -0.009129160889975,51.540112580318166 -0.009088364223774,51.540065106494168 -0.010397861918067,51.539773220309293 -0.010838391016535,51.539747275450864 -0.010982785967826,51.539876702401969</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>Lea Bank Soap and Candle Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">soap, candles</SimpleData>
+		<SimpleData name="River">Waterworks</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">344.61192065800</SimpleData>
+		<SimpleData name="SHAPE_Area">1530.70564752000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.010861555801816,51.539707570139726 -0.010689046014988,51.539731377189561 -0.010575614380923,51.539629207357542 -0.009056528409978,51.540057882859443 -0.009014857450171,51.540030443230187 -0.010961205868859,51.539388473137308 -0.011009217783676,51.539516265768562 -0.010791833943693,51.539586092628518 -0.010861555801816,51.539707570139726</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Victoria Oil &amp; Candel Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">soap, candles</SimpleData>
+		<SimpleData name="River">Waterworks</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">161.27975194400</SimpleData>
+		<SimpleData name="SHAPE_Area">1454.21085837000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.009876823988423,51.538942366060546 -0.009757349888514,51.538733164259753 -0.010400238835612,51.538490114554683 -0.010582222083957,51.538740473936734 -0.009876823988423,51.538942366060546</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Oil &amp; Chemical Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="River">Waterworks</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">166.67395696700</SimpleData>
+		<SimpleData name="SHAPE_Area">763.55844165500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.009289001750488,51.53890565967064 -0.009025651068146,51.538800944932902 -0.009542442762795,51.538255020996104 -0.009289001750488,51.53890565967064</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Hudson Bay Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Products">Furs</SimpleData>
+		<SimpleData name="River">Waterworks</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">163.02041626500</SimpleData>
+		<SimpleData name="SHAPE_Area">1355.90240597000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.008883077357926,51.539366584804355 -0.008598599245785,51.539254826293579 -0.009014941786915,51.538800763169149 -0.009299418184854,51.538912519760189 -0.008883077357926,51.539366584804355</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Varnish Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">Varnish</SimpleData>
+		<SimpleData name="River">Waterworks</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">269.09179067800</SimpleData>
+		<SimpleData name="SHAPE_Area">3917.47925945000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.009125311780966,51.538481849560249 -0.008398650587737,51.538188825900392 -0.009146443129111,51.537506481892557 -0.009440891976472,51.53812632011352 -0.009125311780966,51.538481849560249</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Varnish &amp; Japan Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">Varnish and Japan</SimpleData>
+		<SimpleData name="River">Waterworks</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">329.88742810400</SimpleData>
+		<SimpleData name="SHAPE_Area">6132.76482210000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.008270916042033,51.539396290728973 -0.00769279623555,51.538891927453896 -0.008407901983827,51.538222398681206 -0.009092311265854,51.53850133854548 -0.008270916042033,51.539396290728973</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>William Ritchie and Sons</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Cloth</SimpleData>
+		<SimpleData name="Products">jute, cotton</SimpleData>
+		<SimpleData name="River">Waterworks</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">445.48871446900</SimpleData>
+		<SimpleData name="SHAPE_Area">11809.61178260000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.007294694467339,51.538437400835356 -0.006453550264465,51.537821633246857 -0.007392451268786,51.536935372957423 -0.00851930385059,51.53738890795681 -0.007294694467339,51.538437400835356</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Bone Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="River">Pudding Mill</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">184.75723919200</SimpleData>
+		<SimpleData name="SHAPE_Area">1539.81649924000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.016842502654029,51.537222495494419 -0.016711968693951,51.537267069122976 -0.016557146722342,51.537130790506573 -0.016230954997634,51.537238886526751 -0.016045170895594,51.537075351245441 -0.016456483594559,51.536734788940841 -0.016842502654029,51.537222495494419</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Colour Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">dyes</SimpleData>
+		<SimpleData name="River">Pudding Mill</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">344.64175399900</SimpleData>
+		<SimpleData name="SHAPE_Area">5206.27505314000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.014637084026687,51.537419096101871 -0.014286945111152,51.537092382880985 -0.01586552605987,51.536524303308667 -0.016219156821938,51.536770873751905 -0.015423497075563,51.537078201957399 -0.015464297810135,51.5371256736425 -0.015343890705499,51.537183783712273 -0.015247222562809,51.537188831479114 -0.014637084026687,51.537419096101871</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Black Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">ink</SimpleData>
+		<SimpleData name="River">Pudding MIll</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">300.85203899700</SimpleData>
+		<SimpleData name="SHAPE_Area">3111.11517347000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.01428665442764,51.537099061278262 -0.014113912352572,51.536882279810541 -0.015648492700426,51.536340189732748 -0.015866687806014,51.536497590589967 -0.01428665442764,51.537099061278262</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Glass Bottle Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">159</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">112.19253983000</SimpleData>
+		<SimpleData name="SHAPE_Area">546.72003711700</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.01711475481743,51.515662834260525 0.017664744272568,51.515571349655829 0.01750290090979,51.515521404270437 0.01729517630575,51.515495682802808 0.017201345158505,51.515497296696743 0.017162001229485,51.515456961318719 0.016985272408905,51.515495154119478 0.01711475481743,51.515662834260525</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Paragon Works (Printing)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">158</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Printing</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">190.76283435800</SimpleData>
+		<SimpleData name="SHAPE_Area">1984.81689900000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.018761749641594,51.514377439929554 0.01921213220092,51.514369686603608 0.019118713722706,51.513767178202521 0.018687319193857,51.513826683778021 0.018761749641594,51.514377439929554</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Glass Bottle Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">157</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">185.39528574300</SimpleData>
+		<SimpleData name="SHAPE_Area">2021.70545315000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.017305458798075,51.514287923982067 0.017819342840613,51.514206173652873 0.017747683724704,51.513717864016797 0.017248645600311,51.513757695566987 0.017305458798075,51.514287923982067</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Additions</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">155</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Rubber</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">467.83209150200</SimpleData>
+		<SimpleData name="SHAPE_Area">8890.97281654000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.044312109780989,51.501200858925657 0.044135920291347,51.500553648705193 0.043569797460208,51.50055644746169 0.043426995009013,51.500148975593241 0.042884140906348,51.500165502190114 0.042817191943228,51.500187872478804 0.042824456401327,51.50035031676363 0.042692137030056,51.500430373014652 0.042863306534329,51.501219038661063 0.043122950436894,51.501200378618805 0.043148685890474,51.501016155418831 0.04354349046211,51.500981002845684 0.043635659534458,51.501269195907447 0.044312109780989,51.501200858925657</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Tay Wharf (Jam Factory)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">153</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Food</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">559.52567318200</SimpleData>
+		<SimpleData name="SHAPE_Area">15021.64450200000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.042220376075214,51.502290479601911 0.043077593188773,51.502211933376046 0.042679873409462,51.500409381746962 0.04159478913554,51.500456551186012 0.041672204202713,51.500921709979622 0.041872621185495,51.50185830188736 0.042087633260033,51.501854557881011 0.042220376075214,51.502290479601911</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Chemical Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">152</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">932.32308847400</SimpleData>
+		<SimpleData name="SHAPE_Area">33343.85855340000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.035465237461271,51.502478608367504 0.037222785230438,51.502525839167276 0.036893027579208,51.50249622680721 0.03656891726568,51.502339285349805 0.036319302623852,51.502075026007368 0.037249466517424,51.502108347468216 0.037435667513799,51.499935151671139 0.036266966116771,51.499884768516672 0.035675700049351,51.499831420358994 0.035465237461271,51.502478608367504</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Princh Regent's Wharf (Chemical Works)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">151</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">1535.54943335000</SimpleData>
+		<SimpleData name="SHAPE_Area">53534.27391470000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.03447816880365,51.502439190768818 0.035476237986493,51.502471349139903 0.035688889989043,51.499619142666695 0.034919718365599,51.499639560959231 0.03460635758481,51.500486122931619 0.033553947936374,51.500249920316818 0.033560233472069,51.500136718707459 0.034177907770465,51.500274439818078 0.034350145220134,51.499564623933104 0.034299848939364,51.499452403839285 0.031579945925122,51.49915321139023 0.031427130539256,51.500555376762456 0.0338799244369,51.500703704833242 0.033727164190086,51.501342498278348 0.034683090751971,51.50144607698968 0.03447816880365,51.502439190768818</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Colour Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">150</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">831.99379987500</SimpleData>
+		<SimpleData name="SHAPE_Area">37854.68669390000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.031251663916828,51.502212391252989 0.03447816880365,51.502439190768818 0.034683719955061,51.501460202648289 0.033705160225038,51.501357016457007 0.03388055337499,51.50071783050069 0.031405126203073,51.500569894515152 0.031251663916828,51.502212391252989</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Cresent Wharf (Chemcial Works)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">149</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">948.94303738200</SimpleData>
+		<SimpleData name="SHAPE_Area">39421.41440270000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.027619672398104,51.502034925410761 0.029179796642056,51.501972598434918 0.028742840824603,51.498764096026967 0.027187872886407,51.498684963100708 0.027619672398104,51.502034925410761</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Oil Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Oil</SimpleData>
+		<SimpleData name="Products">oil</SimpleData>
+		<SimpleData name="River">Pudding Mill</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">315.90000971600</SimpleData>
+		<SimpleData name="SHAPE_Area">4673.30678602000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.014103203488553,51.536882098515939 -0.013839612050003,51.536536799998053 -0.015297192468212,51.536040192197348 -0.015596113746412,51.536312571290566 -0.014103203488553,51.536882098515939</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Marshgate Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">soap, tallow</SimpleData>
+		<SimpleData name="River">Pudding Mill</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">460.67496947400</SimpleData>
+		<SimpleData name="SHAPE_Area">8630.82810087000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.013819648178644,51.536503046277964 -0.012485346819017,51.535645064601859 -0.012671166809571,51.535561333305822 -0.014712597606598,51.535930053579058 -0.014931412349126,51.535826828076765 -0.015266229964668,51.536012935954041 -0.013819648178644,51.536503046277964</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Gas</SimpleData>
+		<SimpleData name="Products">Gas</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Major_Impu">Coal</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">952.10465149900</SimpleData>
+		<SimpleData name="SHAPE_Area">48477.50088350000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.001468719682466,51.53492324238168 -0.001288089159816,51.534398885511251 -0.001035316030667,51.534053741710864 -0.000515856866188,51.533436729171193 -0.000285679806782,51.533065236362695 -0.000152460469006,51.532682030365542 -0.000134679195464,51.532354257259932 0.000100757128287,51.532102969466294 -0.00141919975386,51.531894969139323 -0.003392412299267,51.532837470117371 -0.00339775438488,51.533205129018889 -0.003306728601647,51.533571148461448 -0.003096456562766,51.533968552719799 -0.003195934476333,51.534144006481029 -0.002976226514721,51.53426724410636 -0.00270162439233,51.534175689039948 -0.00202312456747,51.534498287292529 -0.002159875063164,51.534801354690046 -0.001468719682466,51.53492324238168</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Startford Mills</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Food</SimpleData>
+		<SimpleData name="Products">corn</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">135.49635453900</SimpleData>
+		<SimpleData name="SHAPE_Area">507.84063786900</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.001959180340922,51.538894653645059 -0.001852384579653,51.538886152139106 -0.001811126871363,51.538604760389468 -0.001879181658176,51.538519039956597 -0.001742015900701,51.53846992196339 -0.001852613197192,51.538391609564165 -0.002031151630227,51.53847484694586 -0.001938753894538,51.538626983413593 -0.001959180340922,51.538894653645059</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Victoria Mills</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Food</SimpleData>
+		<SimpleData name="Products">corn</SimpleData>
+		<SimpleData name="River">Channelsea</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">155.00265615300</SimpleData>
+		<SimpleData name="SHAPE_Area">1011.26414075000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.001751769275223,51.536779273352614 -0.001547433916884,51.536795841442782 -0.001517649385518,51.536741869171159 -0.001194644394095,51.536776464819738 -0.001207692383001,51.536723222308197 -0.001413199177482,51.536679942348769 -0.001358311568136,51.536465148698852 -0.00176668678683,51.536438691134911 -0.001751769275223,51.536779273352614</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Star Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">146.68723953800</SimpleData>
+		<SimpleData name="SHAPE_Area">893.07126089400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.008013316962589,51.539405282451312 -0.007588375164693,51.539565142467197 -0.007579874178655,51.539023670594872 -0.008013316962589,51.539405282451312</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>East London Soap Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">soap</SimpleData>
+		<SimpleData name="River">Lea</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">928.91797126200</SimpleData>
+		<SimpleData name="SHAPE_Area">22478.43761260000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.01758256344783,51.532028907217338 -0.017693091312048,51.532197851834454 -0.016366726524867,51.532883832688015 -0.016252429016196,51.532801703535377 -0.015638868051009,51.533112112400367 -0.014639199943174,51.533676622463723 -0.013413188870457,51.534270706759195 -0.013239588985228,51.534073957457473 -0.01373626608954,51.533741532810595 -0.014749893624984,51.532856479783163 -0.015587480212994,51.532322642646584 -0.01579523884273,51.532473183973678 -0.016104046544008,51.532271232380921 -0.017157232059714,51.531460341705596 -0.017428075919436,51.531638678916494 -0.01758256344783,51.532028907217338</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Marshgate Mills</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="River">Pudding Mill</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">425.10786830600</SimpleData>
+		<SimpleData name="SHAPE_Area">11428.23777320000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.010113507369098,51.534007602927346 -0.011329718459884,51.533393337676927 -0.012191391558422,51.534029466845112 -0.012251566074278,51.534124049478599 -0.01111001032366,51.534746273418826 -0.010113507369098,51.534007602927346</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Glue Manufactory</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">glue</SimpleData>
+		<SimpleData name="River">Pudding Mill</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">259.06321931300</SimpleData>
+		<SimpleData name="SHAPE_Area">2436.20744847000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.010113798631125,51.534000924543435 -0.009928049594309,51.533837379863392 -0.01113326087789,51.533229613354315 -0.011307430642371,51.533413008890037 -0.010113798631125,51.534000924543435</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Marshgate Lane Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="River">Pudding Mill</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">321.43639785600</SimpleData>
+		<SimpleData name="SHAPE_Area">5641.49427421000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.009939048963413,51.533830884046672 -0.009712218216322,51.533626542982248 -0.009591010170793,51.533457410387896 -0.009747034122437,51.53331971331783 -0.010108247349951,51.533145398907244 -0.010142767491977,51.532845246531295 -0.010801681669665,51.53297003439949 -0.010883266401353,51.533064980852728 -0.011112136010661,51.533222571849407 -0.009939048963413,51.533830884046672</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>New Imperial Saw Mills</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Building</SimpleData>
+		<SimpleData name="Products">timber</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">496.62678862900</SimpleData>
+		<SimpleData name="SHAPE_Area">13912.76693400000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.01435293579805,51.532375263800027 -0.012639628532786,51.531611112485564 -0.012872913729007,51.531421255499765 -0.013021993526507,51.531196557765867 -0.01312708034624,51.530997845275799 -0.013269760862636,51.530920065692179 -0.013628858175586,51.531039759333829 -0.013884083885732,51.531084179272739 -0.014305682818901,51.531245027231407 -0.014812361442994,51.531420680230134 -0.014566634590086,51.531650428576413 -0.014975499878372,51.531857839991545 -0.01435293579805,51.532375263800027</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Magnet Wharf Iron Foundry</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Iron</SimpleData>
+		<SimpleData name="Products">iron</SimpleData>
+		<SimpleData name="River">Bow Back River</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">161.17182198500</SimpleData>
+		<SimpleData name="SHAPE_Area">1437.92106620000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.013139002124599,51.53072404256816 -0.01284996630034,51.530471873208548 -0.013199857710454,51.530310723358973 -0.013461765522365,51.530201547239088 -0.013637968399141,51.530338192363416 -0.013139002124599,51.53072404256816</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Bow Granary</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Food</SimpleData>
+		<SimpleData name="Products">corn</SimpleData>
+		<SimpleData name="River">Bow Back River</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">130.52925878800</SimpleData>
+		<SimpleData name="SHAPE_Area">1049.92796877000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.013051311678193,51.530769337768831 -0.012885180668139,51.530893502201955 -0.012768857202528,51.53085811581834 -0.012649336000644,51.530896189924022 -0.012389804649106,51.530704666545823 -0.012729864577183,51.530523302410636 -0.013051311678193,51.530769337768831</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Bow Bridge Warf Soap and Chemical Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="River">Bow Back River</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">191.02818476100</SimpleData>
+		<SimpleData name="SHAPE_Area">1609.13130743000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.012607852194586,51.531356617643034 -0.012130162106533,51.53100768705044 -0.012250847614069,51.530942901695305 -0.01215739400689,51.530874487423006 -0.012310492308847,51.530803567973123 -0.012456027386696,51.530906280350919 -0.012575841041805,51.530861528969879 -0.012648463463391,51.530916224218593 -0.012768566361728,51.530864794216619 -0.012874473217244,51.530893320810094 -0.012607852194586,51.531356617643034</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lion Wharf Iron Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Iron</SimpleData>
+		<SimpleData name="Products">Iron</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">128.66073200300</SimpleData>
+		<SimpleData name="SHAPE_Area">940.84902482000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.012190210814779,51.530367131440222 -0.012132893723557,51.530453039741424 -0.011936387912925,51.530536589013785 -0.011831355372819,51.530488027300606 -0.011690709233164,51.530519059039356 -0.011512474565084,51.530429157108479 -0.012047587313059,51.530197637483596 -0.012190210814779,51.530367131440222</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Tin Box Manufactory</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Products">Tin Boxes</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">145.04630163500</SimpleData>
+		<SimpleData name="SHAPE_Area">1156.24726243000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.011401561592347,51.530761430575694 -0.011036131322113,51.530541376356574 -0.011376195288226,51.530360016186478 -0.011700834640708,51.53053259642838 -0.011840024549229,51.530534955729436 -0.011401561592347,51.530761430575694</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Aberdeen Works James &amp; Co.</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">259.63777645900</SimpleData>
+		<SimpleData name="SHAPE_Area">3194.51611122000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.011030475438387,51.531162805601156 -0.010393649998064,51.530777753606266 -0.010524012201773,51.530245320072886 -0.010991849330653,51.530574041219168 -0.011323120143724,51.530840297031027 -0.011068709209807,51.531023109434656 -0.011182412169219,51.531118600322522 -0.011030475438387,51.531162805601156</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Bow Bridge Soap Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">Soap</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">237.73191619600</SimpleData>
+		<SimpleData name="SHAPE_Area">3633.87172360000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.00964261617274,51.529080880641132 -0.009248656206282,51.528532866813961 -0.009792715613888,51.528341607513134 -0.010228700144753,51.528663108165233 -0.010324118358203,51.528932049172496 -0.00964261617274,51.529080880641132</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Oil &amp; Colour Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">dyes, oil</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">280.01390549200</SimpleData>
+		<SimpleData name="SHAPE_Area">3091.51301306000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.009466956850004,51.532125376383732 -0.00927196815411,51.5319282580219 -0.009326960323998,51.531895776460857 -0.009268544263076,51.531761123912887 -0.009492593058676,51.53153770197018 -0.009669511773803,51.531166452087945 -0.009757790290938,51.531107802715958 -0.010099834342529,51.531126971545561 -0.010108793031651,51.531167222591179 -0.009777608391418,51.531636101188475 -0.009781325399591,51.531796557819384 -0.009828452823831,51.531944384327154 -0.009466956850004,51.532125376383732</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Oil Refinery</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Oil</SimpleData>
+		<SimpleData name="Products">oil</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">206.95847908600</SimpleData>
+		<SimpleData name="SHAPE_Area">2651.05252238000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.009363302538941,51.530325873077679 -0.009145523249647,51.529914510064266 -0.009774380317394,51.52974473909017 -0.010164055888605,51.530145651330386 -0.009363302538941,51.530325873077679</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Boiler Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Products">boilers</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">153.74208462900</SimpleData>
+		<SimpleData name="SHAPE_Area">1317.23954404000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.009156230446709,51.529914691793977 -0.008993663642962,51.52971144068615 -0.009676342357154,51.529535901375894 -0.009838330588441,51.529752507470256 -0.009156230446709,51.529914691793977</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Printing Ink Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">ink</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">134.24008671000</SimpleData>
+		<SimpleData name="SHAPE_Area">827.34870981600</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.00903649079674,51.529712167628141 -0.008924544072874,51.529576606216288 -0.009595932830748,51.529414241498486 -0.009719169363985,51.529536628066957 -0.00903649079674,51.529712167628141</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Boiler Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">96</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Products">boilers</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">165.72471901600</SimpleData>
+		<SimpleData name="SHAPE_Area">1675.68590787000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.008935542538274,51.52957011047971 -0.008723232325667,51.529279133985007 -0.009330085409442,51.529122358532874 -0.009585808291819,51.529400703934648 -0.008935542538274,51.52957011047971</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Stone Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">97</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Building</SimpleData>
+		<SimpleData name="Products">stones</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">151.53748686900</SimpleData>
+		<SimpleData name="SHAPE_Area">1375.78170557000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.008602620503222,51.529096643622054 -0.008389150150126,51.528832380104788 -0.009027534934162,51.528689507384755 -0.009167229242018,51.528925785149333 -0.008602620503222,51.529096643622054</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Blue Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">98</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">dyes</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">220.11392741200</SimpleData>
+		<SimpleData name="SHAPE_Area">2432.34095046000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.008459937936027,51.529174418424688 -0.008059130156123,51.529274541364757 -0.007989139461895,51.52915974061532 -0.007427440933627,51.529263812267438 -0.007423148996436,51.529116711446157 -0.007698685830674,51.528940949039075 -0.007842826553505,51.528829785059969 -0.008178517826248,51.528748606236768 -0.008459937936027,51.529174418424688</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Asphalte Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">99</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">Asphalte</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">413.65835005300</SimpleData>
+		<SimpleData name="SHAPE_Area">10590.11853470000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.008567219476113,51.52941682989794 -0.009207069036128,51.530222976120619 -0.007624919803926,51.530630512379155 -0.00729821228939,51.529769529474009 -0.008567219476113,51.52941682989794</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Paint, Varnish &amp; Printing Ink Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">100</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Products">paint, varnish ink</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">261.47910309600</SimpleData>
+		<SimpleData name="SHAPE_Area">4186.17162607000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.008632675769779,51.531108756217648 -0.008465015465641,51.530531166778985 -0.009277064372303,51.530337776173894 -0.009450199527723,51.531035752733317 -0.008632675769779,51.531108756217648</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Cooperage</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">101</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Products">barrels</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">326.89489832900</SimpleData>
+		<SimpleData name="SHAPE_Area">6727.04411647000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.009116894974109,51.531798648282155 -0.008132706124731,51.531761890720873 -0.007953176394139,51.531210830545128 -0.009418952541775,51.531015173382848 -0.009399725134692,51.53145592876993 -0.009116894974109,51.531798648282155</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>West Ham Chemical Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">102</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">365.21858566100</SimpleData>
+		<SimpleData name="SHAPE_Area">7358.59563424000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.000888923287355,51.529062095759315 0.00235321193756,51.529224233553634 0.002257596788584,51.528998641149258 0.002437420417443,51.528701516056678 0.002209655482359,51.528638573458913 0.001432645054761,51.528511490425572 0.001314288827894,51.528500143217741 0.001300067695953,51.528420189366528 0.000912589807135,51.528380018311807 0.000744216454598,51.528449721138138 0.000794195520912,51.528856536186701 0.000888923287355,51.529062095759315</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Abbey Mills Chemical Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">103</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">226.75293384800</SimpleData>
+		<SimpleData name="SHAPE_Area">2230.19645866000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.00236042429426,51.528656048895222 0.00158285756691,51.528027745533315 0.001367853898781,51.528011365147592 0.001309895888434,51.528399972553295 0.001482661470779,51.528430439580887 0.001582533025894,51.52850893276419 0.001982185581612,51.528582308727714 0.00236042429426,51.528656048895222</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Phoenix Black Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">254.12403249400</SimpleData>
+		<SimpleData name="SHAPE_Area">3972.71388336000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.002919161097438,51.530156885137103 0.003908435791769,51.529992960345119 0.003424006370251,51.529453222957542 0.002723525766941,51.529605529869443 0.002919161097438,51.530156885137103</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Printing Ink Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">148.98910829300</SimpleData>
+		<SimpleData name="SHAPE_Area">1321.38403595000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.002743181356839,51.529565096019368 0.003391007258181,51.529433737452862 0.003080376763442,51.529191768786305 0.002582152251265,51.529313888285046 0.002743181356839,51.529565096019368</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Stirling Chemical Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">106</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">287.51634019700</SimpleData>
+		<SimpleData name="SHAPE_Area">4571.68161786000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.002827903692123,51.531007193408513 0.004147644809264,51.530804208727616 0.004138407630803,51.530349917325708 0.002861214063974,51.530545492163228 0.002827903692123,51.531007193408513</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Abbey Chemical Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">107</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">235.40544877500</SimpleData>
+		<SimpleData name="SHAPE_Area">2523.46778699000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.001578059749982,51.532071086866644 0.001730757030419,51.531888038227414 0.002277115367671,51.531885396549391 0.002352516332992,51.531650201581108 0.002263928611,51.531584883104124 0.002112272526167,51.531547373519068 0.002008130319429,51.531615981715959 0.001636180807415,51.531441886497092 0.001339571382882,51.532008325495525 0.001578059749982,51.532071086866644</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Old Abbey Candle Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">108</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">94.33428383860</SimpleData>
+		<SimpleData name="SHAPE_Area">354.57811935500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.002065451612868,51.532189747060386 0.002217561252462,51.531993342033346 0.00212119707487,51.53199498687151 0.00209171280607,51.532055637466549 0.001833567914288,51.532033310826847 0.001708010354526,51.532102284217082 0.002065451612868,51.532189747060386</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Varnish &amp; Japan Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">109</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">340.39164783800</SimpleData>
+		<SimpleData name="SHAPE_Area">5711.63864224000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.000647830102139,51.532360962545972 0.002012769428513,51.532698560100613 0.002325941921613,51.532265498063985 0.001265793949447,51.532036316705053 0.001358350423885,51.531947856849818 0.000903084221829,51.531828645737981 0.000647830102139,51.532360962545972</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Langthorn Chemical Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">308.65335261600</SimpleData>
+		<SimpleData name="SHAPE_Area">4644.58942640000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.001920797255663,51.532800375364509 0.000683465523653,51.532440551184045 0.000593414610745,51.532341841531213 0.000225810638767,51.532755777913913 0.001646053114583,51.53313253493787 0.001920797255663,51.532800375364509</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Brush Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">111</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">87.77086931410</SimpleData>
+		<SimpleData name="SHAPE_Area">451.50693241400</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.00173493601911,51.533204532179099 0.002091505459685,51.53327195985031 0.002170132905323,51.533110224008482 0.001985469164042,51.533053228522824 0.001923275894966,51.533101071534318 0.001804907660364,51.533089725858403 0.00173493601911,51.533204532179099</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Hardware Manufactory</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">112</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">141.84783413200</SimpleData>
+		<SimpleData name="SHAPE_Area">824.86378348000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.001792734855957,51.533056517811154 0.001954812073242,51.533087167536408 0.002202120378953,51.53286240443213 0.002395145458813,51.532865792839011 0.002433872227482,51.5327715686077 0.002149913541281,51.532649437743601 0.001792734855957,51.533056517811154</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Globe Mill</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">113</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">301.51142207000</SimpleData>
+		<SimpleData name="SHAPE_Area">3474.52845440000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.001751049830218,51.533571825405772 0.001868405908516,51.533315865752087 0.000233714937085,51.532936085991622 0.000093763759443,51.533165695905303 0.001751049830218,51.533571825405772</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Victoria Stone Yard</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">114</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">258.54319592400</SimpleData>
+		<SimpleData name="SHAPE_Area">4005.57424854000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.000204139320263,51.533972465857921 0.000582627765663,51.533317752969921 -0.000098969805323,51.533168982066719 -0.000520590373397,51.533817744609351 0.000204139320263,51.533972465857921</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>&amp; S. Railway Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">115</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Engineering</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">520.61089413600</SimpleData>
+		<SimpleData name="SHAPE_Area">12150.64798080000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.015853825207839,51.532140721419026 0.017664739094746,51.531414544737885 0.014841324066465,51.530808134805859 0.015853825207839,51.532140721419026</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Sanitary Compounds Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">116</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">283.67086493600</SimpleData>
+		<SimpleData name="SHAPE_Area">3677.50313769000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.022324670099408,51.531147168418961 0.022700593073501,51.531167419025273 0.022724621500569,51.531467743181445 0.022831394681504,51.531459219428342 0.022847184478409,51.531331967823483 0.022992046617382,51.531215856918585 0.023280835845133,51.531204193419541 0.023465268032134,51.531013885108507 0.022645383667258,51.530647089806841 0.022562394655176,51.530708668358713 0.022307208244118,51.530753166656602 0.022324670099408,51.531147168418961</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Enamel Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">117</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">98.87466081180</SimpleData>
+		<SimpleData name="SHAPE_Area">563.62489543200</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.022875998934559,51.531498548551085 0.023336100394642,51.531483929495323 0.02331828771136,51.531323842453148 0.022868893737218,51.531338276791807 0.022875998934559,51.531498548551085</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Printing Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">118</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Printing</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">133.12320713200</SimpleData>
+		<SimpleData name="SHAPE_Area">1096.31933048000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.025127193779928,51.531038668779964 0.025247377272402,51.530849466846462 0.024771242032471,51.530744074238811 0.02448956695295,51.530916013887186 0.024881233719226,51.531049597489044 0.025127193779928,51.531038668779964</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Three Mills Distillery</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">119</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Alcohol</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">811.43261994300</SimpleData>
+		<SimpleData name="SHAPE_Area">27702.10317440000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.007192396392795,51.527776178633218 -0.005695764531762,51.527944550400093 -0.005422947146142,51.527812933548638 -0.00507859488795,51.527847175625297 -0.004782320327024,51.527026801637334 -0.004961208637727,51.526856084894185 -0.004857455319471,51.526533532535808 -0.005410755561418,51.526375865620267 -0.006101185968647,51.526267309752932 -0.006654684835937,51.52635023058162 -0.006891502234647,51.526815387077185 -0.007050843177747,51.527092100485156 -0.00748025309742,51.5270726633577 -0.007633555150983,51.527242344504579 -0.00828954408033,51.527186654654038 -0.008488221353365,51.527544230367738 -0.007629392959263,51.527583110338888 -0.007316954566634,51.527377310024747 -0.007121910200471,51.52742746119273 -0.007247678026153,51.527737018734122 -0.007192396392795,51.527776178633218</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Bromley Gas Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">120</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Gas</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">2789.56549373000</SimpleData>
+		<SimpleData name="SHAPE_Area">270082.70382100000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.006321022872454,51.525649520590775 -0.002696609612827,51.52645665886093 -0.001940805267333,51.525855675850899 -0.00165467350995,51.525783970603747 -0.001454302832424,51.525466452225743 -0.001658409050041,51.525209289387789 -0.002133841265081,51.525117142867721 -0.002238375859791,51.524931797024777 -0.002539993236341,51.524649561914742 -0.002495526803448,51.524441629162112 -0.002528627487685,51.524174869997942 -0.003148475750222,51.523964882195756 -0.003532700429482,51.523998155348792 -0.003624476300329,51.523859372705864 -0.00537061174729,51.523862348537214 -0.00472624214978,51.522427893838305 -0.003625293258192,51.521881196509241 -0.001029384549811,51.519023406311938 -0.002497054657033,51.518286539433412 -0.003949687394484,51.518137510510236 -0.005367373054139,51.517807426180241 -0.006605686293298,51.519131679056883 -0.007354609618382,51.519398362396345 -0.008659944748371,51.520416310218714 -0.00875009416281,51.520805459167143 -0.008391521686879,51.52116693939319 -0.007720092551751,51.521823844242569 -0.00750903972589,51.522241292398256 -0.00713111830279,51.52329079703761 -0.007235546226114,51.523352719553856 -0.007163276280241,51.524026481825778 -0.007112498789353,51.524453335592732 -0.006919424179369,51.524704010962026 -0.006142119128889,51.525085101710374 -0.006116624081296,51.525178231444137 -0.006321022872454,51.525649520590775</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Manure Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">121</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">483.93866187100</SimpleData>
+		<SimpleData name="SHAPE_Area">3681.64023501000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.001775562420333,51.52718279247155 -0.001577118702635,51.527065799341543 -0.001328832541278,51.527108350434219 -0.001257984649777,51.527013580015677 -0.004319920447088,51.526330579250178 -0.004336076837532,51.526451148825366 -0.003546071720994,51.526631514443899 -0.002767059215378,51.526805377712122 -0.001775562420333,51.52718279247155</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Oil &amp; Stearine Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">122</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">405.58297526800</SimpleData>
+		<SimpleData name="SHAPE_Area">8238.41389250000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-0.0007168871702,51.527625883691989 0.000006694306328,51.528001166493091 0.000495502218289,51.52815322464717 0.000737482528527,51.528296125464671 0.001263848803525,51.528327244153658 0.001303909516144,51.528019138635912 0.001473744852449,51.527982825847602 0.000979079465354,51.527697210254694 -0.000441865074785,51.527300408782473 -0.0007168871702,51.527625883691989</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>River Lea Iron Wharf</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">123</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Iron</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">418.09584750100</SimpleData>
+		<SimpleData name="SHAPE_Area">6344.22625788000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.002414344747256,51.517999819208356 0.002738462076707,51.517803529866526 0.001764462222598,51.517124462227827 0.001158869983556,51.516848664301527 0.001055112817701,51.516738225870498 0.000532327132291,51.516915457363027 0.002414344747256,51.517999819208356</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lea Shipbuilding Yard</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">124</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Engineering</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">252.09881309200</SimpleData>
+		<SimpleData name="SHAPE_Area">3750.90997871000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.002403455907312,51.516726434268094 0.002417983565332,51.51664763974172 0.002079504351726,51.516311180484841 0.001081824504279,51.516732159596231 0.001185090229804,51.516831385335408 0.00157909429945,51.516998585543874 0.001959580136444,51.516857441577379 0.002024200365157,51.516895611330632 0.002403455907312,51.516726434268094</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Crown Saw Mills</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">125</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Building</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">235.19775129200</SimpleData>
+		<SimpleData name="SHAPE_Area">2340.50248469000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.003649894430995,51.516031892531856 0.004371318606834,51.516283256920495 0.00456210882685,51.516122903121698 0.003481396204669,51.515675702513391 0.003192500088886,51.515854560927551 0.003649894430995,51.516031892531856</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Thames Iron Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">126</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Engineering</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">1902.48170926000</SimpleData>
+		<SimpleData name="SHAPE_Area">98076.65339680000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.008158763274926,51.512437022106518 0.009356453526555,51.512478223138693 0.009962887317473,51.511547715897663 0.010511094809423,51.510724802779023 0.011740978844126,51.509048626025645 0.011957368880254,51.508450204526937 0.011854872354759,51.507756265507268 0.011468355927767,51.507145744856111 0.010533208750696,51.506325821431815 0.009818018400467,51.506826190425208 0.009768208700266,51.507124399166457 0.009975865652742,51.507552845720426 0.010212206129525,51.508020074032643 0.010278054336488,51.508086270908763 0.010644620251659,51.50865225306466 0.010422980682893,51.508723378364984 0.01016861314342,51.508868000348571 0.009862457541771,51.509265980024246 0.009343492080964,51.509527343492984 0.008862044005015,51.509619748509728 0.008588572001641,51.509534664834369 0.008207673168309,51.509664617883061 0.008112544421738,51.509750403970436 0.007587895992579,51.509882816287799 0.007876651467456,51.510315488577433 0.008127119357988,51.51049073462805 0.008075923974185,51.51055332624145 0.007966385184122,51.510515928893007 0.007608106503144,51.510342528103457 0.007105453349151,51.509952788913644 0.006625227751458,51.51007321554237 0.006649355512728,51.510213064334074 0.007038411670303,51.510677685636807 0.007366781129117,51.510784274558645 0.007550191864219,51.511274855142261 0.007984820309381,51.5119575005629 0.008158763274926,51.512437022106518</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>India Rubber Gutta Percha and Telegraph Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">127</SimpleData>
+		<SimpleData name="First_Date">1852</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Rubber</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">1047.02907061000</SimpleData>
+		<SimpleData name="SHAPE_Area">43432.72958780000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.047056688584793,51.501688217198961 0.046427646430268,51.499749080138365 0.045573094064839,51.499781799283326 0.045642469128296,51.500056633191903 0.045288860389652,51.500125133526062 0.045160072454051,51.499797907910747 0.044477782661106,51.499854328450063 0.043508781625905,51.499880123213515 0.042696593869205,51.49990317846909 0.042722388242978,51.500160963900463 0.043434788995742,51.500139647393709 0.043554084748123,51.500573895626701 0.044123930792687,51.500555059131479 0.044572166363203,51.501963081572214 0.047056688584793,51.501688217198961</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Paraffin Oil Stores</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">131</SimpleData>
+		<SimpleData name="First_Date">1867</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Oil</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">946.61224300700</SimpleData>
+		<SimpleData name="SHAPE_Area">25130.22331860000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.022888467678404,51.502677507323845 0.018053729620633,51.500463419468616 0.017305501234564,51.500966046307255 0.022126864761022,51.502877639660468 0.022888467678404,51.502677507323845</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Manure Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">132</SimpleData>
+		<SimpleData name="First_Date">1867</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">609.76419354100</SimpleData>
+		<SimpleData name="SHAPE_Area">12493.04772540000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.016077391396449,51.505466179352261 0.016633955722105,51.505144948835031 0.014417979211008,51.504399429888231 0.014458397162323,51.50434530815631 0.013559131733739,51.504013472757705 0.013393533927545,51.504140980010682 0.013481039891726,51.504184001386179 0.013316225685574,51.504329304214863 0.013229894778705,51.504312977164119 0.013137151438531,51.504474851596996 0.016077391396449,51.505466179352261</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Odam</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">133</SimpleData>
+		<SimpleData name="First_Date">1855</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">666.93642315300</SimpleData>
+		<SimpleData name="SHAPE_Area">19089.85582830000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.016647820585583,51.50513580583462 0.017441647224479,51.50469473160976 0.015830774245028,51.504081301305519 0.014698677608195,51.503646621721529 0.014670947969927,51.503664907262817 0.014189861679169,51.503432747621076 0.013630811056632,51.504021146568491 0.014473439546907,51.504362858911357 0.014431844303303,51.504390287146407 0.016647820585583,51.50513580583462</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Manure Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">134</SimpleData>
+		<SimpleData name="First_Date">1867</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">601.42915561400</SimpleData>
+		<SimpleData name="SHAPE_Area">9096.58998544000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.017455904813988,51.504694486333435 0.017733194998939,51.50451162413119 0.014518693647496,51.503124342778726 0.01426232495337,51.503458216728447 0.017455904813988,51.504694486333435</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Iron Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">136</SimpleData>
+		<SimpleData name="First_Date">1867</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Iron</SimpleData>
+		<SimpleData name="Products">Iron</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">251.14129066900</SimpleData>
+		<SimpleData name="SHAPE_Area">3417.04360189000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.031583178039871,51.502803244920834 0.032799368956213,51.502880119760199 0.032868279697491,51.502504931108348 0.031625166749346,51.50246414185245 0.031583178039871,51.502803244920834</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Ceylon Mills</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">137</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Factory</SimpleData>
+		<SimpleData name="Products">Mats</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">392.59455497000</SimpleData>
+		<SimpleData name="SHAPE_Area">8269.47416705000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.022953781436828,51.515078686464449 0.024211227222541,51.515078195155823 0.024144750283972,51.514089787390326 0.023646999734452,51.514105445292522 0.023622744794164,51.514324979971263 0.022724364923093,51.51450304680214 0.022669330528185,51.514539337270612 0.022796977193084,51.514607818380547 0.022851018136147,51.514804797640124 0.022953781436828,51.515078686464449</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Coal Depot</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">138</SimpleData>
+		<SimpleData name="First_Date">1855</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Coal</SimpleData>
+		<SimpleData name="Products">Coal</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">379.49999628100</SimpleData>
+		<SimpleData name="SHAPE_Area">6269.98425115000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.020675390912271,51.506600722451665 0.021288114798008,51.506625504665749 0.021467643121384,51.505307714684818 0.020854936867094,51.50528293321176 0.020675390912271,51.506600722451665</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Coal Depot</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">139</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Coal</SimpleData>
+		<SimpleData name="Products">Coal</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">325.70113261000</SimpleData>
+		<SimpleData name="SHAPE_Area">3835.25642464000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.017018980253477,51.507928883730706 0.017096111682206,51.50762362266542 0.017334727798504,51.507640723068079 0.017454008759275,51.507264054031559 0.017193070520721,51.50725440610514 0.017243196362479,51.506850653699793 0.016903348496056,51.506849430717821 0.016644234146374,51.507907055369714 0.017018980253477,51.507928883730706</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Engine Works and Dry Docks</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">140</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Engineering</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">1083.27655048000</SimpleData>
+		<SimpleData name="SHAPE_Area">50234.34185080000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.04687671188863,51.506167535214772 0.045965225879537,51.505794685632843 0.044774550408042,51.505257058364442 0.043786407200696,51.504942074958812 0.042637997141922,51.504841922835112 0.041815628951496,51.504941063612939 0.041260814932209,51.505198111524571 0.040821060811497,51.50549556511217 0.040228536680643,51.505922903211463 0.039977421753037,51.506386709535754 0.04687671188863,51.506167535214772</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Hall's Wharf Chemical Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">142</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">641.89285391300</SimpleData>
+		<SimpleData name="SHAPE_Area">12664.14479100000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.018767607437157,51.50392643761905 0.01935648711781,51.503668910259968 0.015888007097847,51.502322002287031 0.015564709190766,51.50269510844285 0.018767607437157,51.50392643761905</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Malting (?)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">143</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Food</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">645.75673318500</SimpleData>
+		<SimpleData name="SHAPE_Area">8687.72280546000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.015898388774158,51.502300619017504 0.019367804226019,51.503668715382886 0.019757342800651,51.503513573292771 0.01613738096104,51.502070325816369 0.015898388774158,51.502300619017504</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Peruvian Guano Works</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">144</SimpleData>
+		<SimpleData name="First_Date">1873</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">870.27356095200</SimpleData>
+		<SimpleData name="SHAPE_Area">34865.17951330000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.01995254404995,51.503573825603596 0.02115759583071,51.503164308605911 0.021101077203874,51.502910824872053 0.017044232618611,51.501319633041696 0.016183583145501,51.502090736288643 0.01995254404995,51.503573825603596</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Plaistow Wharf (Sugar)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">145</SimpleData>
+		<SimpleData name="First_Date">1881</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Food</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">1046.13394945000</SimpleData>
+		<SimpleData name="SHAPE_Area">41945.08661810000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.021190921672232,51.503149597681784 0.022902706981311,51.502674781504894 0.01908791537114,51.500923982366984 0.018025588813847,51.500461626784599 0.016836169057241,51.501224255810669 0.021111769072209,51.50289650405503 0.021190921672232,51.503149597681784</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Soap Works (Kight)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">146</SimpleData>
+		<SimpleData name="First_Date">1880</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">577.45755277400</SimpleData>
+		<SimpleData name="SHAPE_Area">16887.07516170000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.020439424639568,51.501522710970328 0.020895659797627,51.501083685674608 0.020386802049067,51.500845065083141 0.020703105186446,51.500571020673547 0.019244780144783,51.499861042122902 0.018059849803664,51.500468105464051 0.020439424639568,51.501522710970328</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Manhattan Wharf (Oil Works)</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">147</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Oil</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">329.56476272100</SimpleData>
+		<SimpleData name="SHAPE_Area">4970.45527781000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.021063730745345,51.500275007572242 0.020288050502637,51.499892551099805 0.019867553585028,51.499602928060085 0.019256096310645,51.499860847266774 0.020736116913228,51.500549247898824 0.021063730745345,51.500275007572242</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Bloomsbury Varnish WOrks</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">148</SimpleData>
+		<SimpleData name="First_Date">1893</SimpleData>
+		<SimpleData name="Last_Date">1930</SimpleData>
+		<SimpleData name="Type">Chemical</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">423.07746452200</SimpleData>
+		<SimpleData name="SHAPE_Area">7553.14343852000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.024802188243772,51.501836217238342 0.024180961401456,51.500595859453853 0.022768556072126,51.50092416673106 0.024802188243772,51.501836217238342</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Tate Sugar</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="First_Date">1877</SimpleData>
+		<SimpleData name="Last_Date">2010</SimpleData>
+		<SimpleData name="Type">Food</SimpleData>
+		<SimpleData name="Products">Sugar</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">0.00000000000</SimpleData>
+		<SimpleData name="SHAPE_Area">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.049283390804096,51.501350135040418 0.048920188216583,51.499677745125332 0.046715237566002,51.4997762053545 0.047281076317059,51.501684883460115 0.049283390804096,51.501350135040418</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lyle Sugar</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#westhamtest">
+		<SimpleData name="OBJECTID">0</SimpleData>
+		<SimpleData name="First_Date">1881</SimpleData>
+		<SimpleData name="Last_Date">1968</SimpleData>
+		<SimpleData name="Type">Food</SimpleData>
+		<SimpleData name="Products">Sugar</SimpleData>
+		<SimpleData name="Rate_Value">0</SimpleData>
+		<SimpleData name="SHAPE_Leng">0.00000000000</SimpleData>
+		<SimpleData name="SHAPE_Area">0.00000000000</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>0.017720804940545,51.504475498830217 0.018558291630728,51.50386154052616 0.015433589587941,51.502716192326467 0.014590796140438,51.503210310312717 0.017720804940545,51.504475498830217</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Schema name="westhamtest" id="westhamtest">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="First_Date" type="int"></SimpleField>
+	<SimpleField name="Last_Date" type="int"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Products" type="string"></SimpleField>
+	<SimpleField name="River" type="string"></SimpleField>
+	<SimpleField name="Major_Impu" type="string"></SimpleField>
+	<SimpleField name="Pollution" type="string"></SimpleField>
+	<SimpleField name="Employs" type="string"></SimpleField>
+	<SimpleField name="Rate_Value" type="int"></SimpleField>
+	<SimpleField name="SHAPE_Leng" type="float"></SimpleField>
+	<SimpleField name="SHAPE_Area" type="float"></SimpleField>
+</Schema>
+</Document></kml>
